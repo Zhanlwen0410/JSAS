@@ -5,7 +5,7 @@ JSAS provides USAS-style semantic tagging for Japanese text.
 
 It supports mapping lexical resources (e.g., WLSP / Bunruidb) to semantic domains and performing basic corpus analysis.
 
-##Features
+## Features
 
 Japanese text processing
 
